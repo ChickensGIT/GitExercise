@@ -1,0 +1,3 @@
+student 2
+Name: Mark Pogi
+Grade: 88
